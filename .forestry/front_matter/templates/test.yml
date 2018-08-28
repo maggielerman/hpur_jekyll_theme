@@ -1,8 +1,11 @@
 ---
-label: test
+label: test-fileupload
 hide_body: false
 is_partial: false
 fields:
 - type: text
   name: test1
   label: test1
+- type: image_gallery
+  name: test-file_upload
+  label: test-file upload
