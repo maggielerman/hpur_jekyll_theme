@@ -9,3 +9,5 @@ fields:
 - type: image_gallery
   name: test-file_upload
   label: test-file upload
+pages:
+- test-page01.md
