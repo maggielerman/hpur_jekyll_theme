@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This is a test!"
+title:  "let me edit this and hope it works"
 date:   2015-02-12 13:46:40
 categories: jekyll update
 ---
