@@ -1,0 +1,8 @@
+body {
+  margin-top: 1rem;
+  font-size: 80%;
+}
+
+.card-link {
+  text-decoration: underline;
+}
